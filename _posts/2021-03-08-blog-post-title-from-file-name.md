@@ -1,22 +1,12 @@
-## Oracle Database 19c Installation On Oracle Linux 7 (OL7)
-this is sovann
+## Sample post 
+
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
 If the file does not start with a header, then the post title will be derived from the filename.
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
-This article describes the installation of Oracle Database 19c 64-bit on Oracle Linux 7 (OL7) 64-bit. The article is based on a server installation with a minimum of 2G swap and secure Linux set to permissive. An example of this type of Linux installation can be seen here here.
 
-Download Software
-Hosts File
-Oracle Installation Prerequisites
-Automatic Setup
-Manual Setup
-Additional Setup
-Installation
-Database Creation
-Post Installation
 
 ### This is a header
 
