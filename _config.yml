@@ -20,7 +20,7 @@ linkedin_username: "voeurngsovann"
 #########################################################################################
 theme: "minima"
 
-#rss: rss
+rss: rss
 baseurl: "/oracle-inventory"
 
 kramdown:
