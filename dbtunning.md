@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Archive Blog
 title: Database  Tuning
 ---
 
