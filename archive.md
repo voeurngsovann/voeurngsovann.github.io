@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Archive
-title: Database Performance Tuning
+title: Blog Archive
 ---
 
 {% for tag in site.tags %}
