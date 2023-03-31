@@ -1,4 +1,4 @@
-#How to Configuring Transparent Application Failover
+## How to Configuring Transparent Application Failover
 
 ### On primary database 
 ```
